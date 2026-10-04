@@ -9,7 +9,7 @@
 
 O P05 publicado na web. Os gráficos da corrida de duas etapas viraram um app no Streamlit, com filtro por
 ponto de medição, período e máquina, e com a carta de controle recalculada na hora a partir do trecho de
-referência que a pessoa escolher. O app está em ENDEREÇO_DO_APP.
+referência que a pessoa escolher. O app está em <https://p06-process-continuo.streamlit.app/>.
 
 ## Os dados
 
