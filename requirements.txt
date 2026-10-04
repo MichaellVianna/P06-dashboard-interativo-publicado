@@ -1,0 +1,4 @@
+# Ambiente do P06 (versões instaladas na máquina, Python 3.14).
+streamlit>=1.65
+pandas>=3.0
+plotly>=7.1

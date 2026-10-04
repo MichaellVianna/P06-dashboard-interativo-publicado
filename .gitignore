@@ -1,0 +1,16 @@
+# Ambientes e cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dados (arquivos grandes não devem ir pro Git)
+data/*
+!data/.gitkeep
+# o app precisa deste recorte no servidor; o CSV completo continua fora
+!data/processo_app.csv
+
+# Sistema
+.DS_Store
+Thumbs.db
